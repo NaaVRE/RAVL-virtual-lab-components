@@ -28,7 +28,7 @@ files_are_different() {
 
 script_dir="$(dirname "$0")"
 db_dir="$HOME/NaaVRE"
-file_cells="$script_dir/NaaVRE_cells_RAVL.json"
+file_cells="$script_dir/cells_catalogue/NaaVRE_cells_RAVL.json"
 file_db="$db_dir/NaaVRE_db.json"
 file_db_merged="$db_dir/NaaVRE_db_merged.json"
 
